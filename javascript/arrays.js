@@ -131,3 +131,30 @@ for(city of city2)
  console.log(text2);
  
  ['t', 'h', 'i', 's', ' ', 'i', 's', ' ', 'm', 'y', ' ', 'p', 'r', 'o', 'g', 'g', 'r', 'a', 'm']
+//Accessing of Arrays
+
+for(m of city2){
+   console.log(m);}
+srvl
+ ndl
+knl
+ hyd
+ delhi
+
+for (i=0;i<=4;i++){
+   console.log(city2[i]);
+}
+ srvl
+ ndl
+ knl
+ hyd
+ delhi
+
+for (i=0;i<=city2.length;i++){
+   console.log(city2[i]);
+}
+ srvl
+ ndl
+ knl
+ hyd
+ delhi
